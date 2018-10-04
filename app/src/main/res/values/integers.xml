@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ODYSSEY">0</integer>
+    <integer name="ATARI_2600">1</integer>
+    <integer name="INTELLIVISION">2</integer>
+    <integer name="COLECOVISION">3</integer>
+    <integer name="ATARI_5200">4</integer>
+    <integer name="NES">5</integer>
+    <integer name="MASTER_SYSTEM">6</integer>
+    <integer name="ATARI_7800">7</integer>
+    <integer name="GENESIS">8</integer>
+    <integer name="PC_ENGINE">9</integer>
+    <integer name="SNES">10</integer>
+    <integer name="CD_I">11</integer>
+    <integer name="PLAYSTATION">12</integer>
+    <integer name="SATURN">13</integer>
+    <integer name="N64">14</integer>
+    <integer name="DREAMCAST">15</integer>
+    <integer name="PLAYSTATION_2">16</integer>
+    <integer name="GAMECUBE">17</integer>
+    <integer name="XBOX">18</integer>
+    <integer name="CONDITION_LIKE_NEW">1</integer>
+    <integer name="CONDITION_VERY_GOOD">2</integer>
+    <integer name="CONDITION_GOOD">3</integer>
+    <integer name="CONDITION_FAIR">4</integer>
+</resources>

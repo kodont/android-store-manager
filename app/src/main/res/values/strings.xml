@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Retro Game Store Manager</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="current_game_title">Game Title</string>
+    <string name="current_console">console</string>
+    <string name="current_condition">condition</string>
+    <string name="current_has_disc">Has Disc</string>
+    <string name="current_has_box">Has Box</string>
+    <string name="current_has_manual">Has Manual</string>
+    <string name="current_price">price</string>
+    <string name="last_game_title">Game Title</string>
+    <string name="last_console">console</string>
+    <string name="last_condition">condition</string>
+    <string name="last_has_disc">Has Disc</string>
+    <string name="last_has_box">Has Box</string>
+    <string name="last_has_manual">Has Manual</string>
+    <string name="last_price">price</string>
+    <string name="last_time">time</string>
+    <string name="preferences_name">sharedPrefs</string>
+</resources>
